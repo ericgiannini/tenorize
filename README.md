@@ -1,1 +1,1 @@
-# iOS App with Tenor API in UICollectionView
+# iOS application displaying Tenor API assets in UICollectionView with Alamofire parsed with Codable
